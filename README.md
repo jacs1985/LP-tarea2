@@ -5,4 +5,5 @@ los topicos son;
 2. Modificar el código de tal manera de obtener dos visualizaciones: una de un objeto simé- trico, y otra de un objeto asimétrico.
 3. Identificar cuál es la recursividad que hace posible que ambas visualizaciones funcionen.
 4. Identificar cuántas iteraciones son necesarias para generar la visualización obtenida.
-de los cuales se logro encontrar un codigo de como crear un fractal en Racket y luego se modifico para crear un fractal simetrico.
+
+ Se logro encontrar un codigo de como crear un fractal en Racket y luego se modifico para crear un fractal simetrico.
